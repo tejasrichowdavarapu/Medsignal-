@@ -1,7 +1,7 @@
 # MedSignal
 ## Try the app
 
-[Open MedSignal] ## Try the app
+
 
 [Open MedSignal] https://medsignal03.streamlit.app/
 
