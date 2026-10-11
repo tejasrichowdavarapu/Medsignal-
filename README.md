@@ -1,4 +1,9 @@
 # MedSignal
+## Try the app
+
+[Open MedSignal] ## Try the app
+
+[Open MedSignal] https://medsignal03.streamlit.app/
 
 MedSignal is an educational prototype for exploring a public heart-disease dataset
 and a machine-learning classification workflow. It is not a medical diagnostic
